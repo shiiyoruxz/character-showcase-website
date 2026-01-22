@@ -24,17 +24,6 @@ This website is a **Personal Project** designed to bridge the gap between **Soft
 
 ---
 
-## 📸 Interface Gallery
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <img src="AWD/index.png" alt="Home Page" width="100%" />
-  <img src="AWD/story.png" alt="Story Section" width="100%" />
-  <img src="AWD/shop.png" alt="Shop UI" width="100%" />
-  <img src="AWD/merch.png" alt="Merchandise" width="100%" />
-</div>
-
----
-
 ## 🛠️ Tech Stack & Structure
 
 * **HTML5:** Semantic structure for accessibility.
