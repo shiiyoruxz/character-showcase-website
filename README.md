@@ -7,12 +7,6 @@
 
 ---
 
-## 🌐 Live Demo
-You can view the live version of this project here:  
-**[👉 View Live Showcase](https://shiiyoruxz.github.io/character-showcase-website/)**
-
----
-
 ## ✨ Project Overview
 This website is a **Personal Project** designed to bridge the gap between **Software Engineering** and **Digital Art**. It is an immersive introduction to an anime character, using modern web technologies to create a "Live" feel through animations and interactive UI.
 
