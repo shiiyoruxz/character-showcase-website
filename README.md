@@ -1,33 +1,50 @@
-Interactive Character Showcase Website 🏯
-A Front-End Web Experience featuring Interactive Storytelling
+# 🏯 Interactive Character Showcase Website 
+**A Front-End Web Experience featuring Interactive Storytelling**
 
-A sleek, responsive, and animated website designed to introduce an anime character. This project focuses on UI/UX design, smooth transitions, and interactive elements to create an engaging experience for the user.
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
 
-✨ Features
-Interactive Navigation: A seamless menu system to explore character lore, stats, and media.
+---
 
-Custom Animations: Utilizes CSS keyframes and JavaScript triggers for a dynamic, "live" feel.
+## 🌐 Live Demo
+You can view the live version of this project here:  
+**[👉 View Live Showcase](https://shiiyoruxz.github.io/character-showcase-website/)**
 
-Merchandise & Shop UI: A dedicated section showcasing integrated shop layouts and product displays.
+---
 
-Responsive Design: Fully optimized for both desktop and mobile viewing.
+## ✨ Project Overview
+This website is a **Personal Project** designed to bridge the gap between **Software Engineering** and **Digital Art**. It is an immersive introduction to an anime character, using modern web technologies to create a "Live" feel through animations and interactive UI.
 
-Asset Integration: Blends high-quality character art with a modern web interface.
+### Key Features:
+* **Interactive Navigation:** Smooth, JavaScript-driven transitions between sections.
+* **Anime Aesthetic:** Custom CSS styling and layouts inspired by modern gaming and anime interfaces.
+* **Merchandise UI:** A mock-up shop interface demonstrating grid-based product layouts.
+* **Responsive Design:** Optimized for a seamless experience across desktop and mobile devices.
 
-🛠️ Tech Stack
-Language: HTML5, CSS3, JavaScript (Vanilla)
+---
 
-Design Style: Anime-inspired aesthetic with clean typography and vibrant accents.
+## 📸 Interface Gallery
 
-Layout: Grid and Flexbox for precise element positioning.
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <img src="AWD/index.png" alt="Home Page" width="100%" />
+  <img src="AWD/story.png" alt="Story Section" width="100%" />
+  <img src="AWD/shop.png" alt="Shop UI" width="100%" />
+  <img src="AWD/merch.png" alt="Merchandise" width="100%" />
+</div>
 
-📸 Preview
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"> <img src="AWD/index.png" alt="Home Page" width="100%" /> <img src="AWD/story.png" alt="Story Section" width="100%" /> <img src="AWD/shop.png" alt="Shop UI" width="100%" /> <img src="AWD/merch.png" alt="Merchandise" width="100%" /> </div>
+---
 
-🚀 Installation & Usage
-Clone the repo:
+## 🛠️ Tech Stack & Structure
 
-Bash
+* **HTML5:** Semantic structure for accessibility.
+* **CSS3:** Flexbox/Grid layouts and Keyframe animations.
+* **JavaScript (ES6):** Logic for navigation, triggers, and UI interactivity.
 
-git clone https://github.com/shiiyoruxz/character-showcase-website.git
-Open the project: Simply open index.html in your preferred web browser.
+### Folder Structure:
+```text
+├── AWD/               # Image assets and screenshots
+├── css/               # Custom stylesheets
+├── js/                # Interactivity logic
+├── index.html         # Main entry point
+└── README.md          # Documentation
